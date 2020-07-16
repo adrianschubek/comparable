@@ -1,5 +1,7 @@
 <?php
 
+namespace adrianschubek\Support;
+
 
 interface Comparable
 {
